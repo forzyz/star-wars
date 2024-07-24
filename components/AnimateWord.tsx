@@ -26,6 +26,7 @@ const AnimateWord: React.FC<AnimateWordProps> = ({ text }) => {
     });
 
     // Cleanup function to clear timers
+    
     return () => {
       timers.forEach(timer => clearTimeout(timer));
     };

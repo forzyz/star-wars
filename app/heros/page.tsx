@@ -32,11 +32,10 @@ const HerosPage: React.FC<HerosPageProps> = async ({
   const data = await fetchData(page, search);
 
   // Handle no data case
+  
   if (!data) {
     return (
-      <h1
-        className="text-2xl font-bold leading-10 tracking-tight bg-clip-text text-transparent bg-secondary"
-      >
+      <h1 className="text-2xl font-bold leading-10 tracking-tight bg-clip-text text-transparent bg-secondary">
         Ups
       </h1>
     );
@@ -54,12 +53,14 @@ const HerosPage: React.FC<HerosPageProps> = async ({
       <Suspense fallback={<Loading />}>
         {!!heros.length ? (
           <>
-            <ul
-              className="grid grid-cols-2 gap-8 py-24 md:grid-cols-2 md:py-56 lg:grid-cols-5"
-            >
+            <ul className="grid grid-cols-2 gap-8 py-24 md:grid-cols-2 md:py-56 lg:grid-cols-5">
               {heros.map((hero) => (
                 <li key={hero.name}>
-                  <HeroCard hero={hero} page={page || '1'} search={search || ''} />
+                  <HeroCard
+                    hero={hero}
+                    page={page || "1"}
+                    search={search || ""}
+                  />
                 </li>
               ))}
             </ul>
