@@ -1,52 +1,84 @@
 {
   "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-35ed3579428d600d.js",
+      "static/chunks/fd9d1056-a7a08e0407ba639d.js",
+      "static/chunks/69-7a2d266bde66b2c7.js",
+      "static/chunks/main-app-e1d3b0990d90df4e.js",
+      "static/chunks/app/_not-found-d3449ba121c083c2.js"
+    ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-35ed3579428d600d.js",
+      "static/chunks/fd9d1056-a7a08e0407ba639d.js",
+      "static/chunks/69-7a2d266bde66b2c7.js",
+      "static/chunks/main-app-e1d3b0990d90df4e.js",
+      "static/css/911090c26fb07ba0.css",
+      "static/chunks/app/layout-4f823b4a849b33f8.js"
     ],
     "/loading": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/loading.js"
-    ],
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/page.css",
-      "static/chunks/app/page.js"
-    ],
-    "/heros/loading": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/heros/loading.js"
+      "static/chunks/webpack-35ed3579428d600d.js",
+      "static/chunks/fd9d1056-a7a08e0407ba639d.js",
+      "static/chunks/69-7a2d266bde66b2c7.js",
+      "static/chunks/main-app-e1d3b0990d90df4e.js",
+      "static/chunks/app/loading-96621880de30c38e.js"
     ],
     "/heros/error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/heros/error.js"
+      "static/chunks/webpack-35ed3579428d600d.js",
+      "static/chunks/fd9d1056-a7a08e0407ba639d.js",
+      "static/chunks/69-7a2d266bde66b2c7.js",
+      "static/chunks/main-app-e1d3b0990d90df4e.js",
+      "static/chunks/app/heros/error-6df7b56163da93ee.js"
     ],
-    "/heros/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/heros/page.js"
+    "/heros/loading": [
+      "static/chunks/webpack-35ed3579428d600d.js",
+      "static/chunks/fd9d1056-a7a08e0407ba639d.js",
+      "static/chunks/69-7a2d266bde66b2c7.js",
+      "static/chunks/main-app-e1d3b0990d90df4e.js",
+      "static/chunks/app/heros/loading-e6001025e82b84f9.js"
     ],
     "/heros/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/heros/[id]/page.css",
-      "static/chunks/app/heros/[id]/page.js"
+      "static/chunks/webpack-35ed3579428d600d.js",
+      "static/chunks/fd9d1056-a7a08e0407ba639d.js",
+      "static/chunks/69-7a2d266bde66b2c7.js",
+      "static/chunks/main-app-e1d3b0990d90df4e.js",
+      "static/chunks/c37d3baf-d776d6ce59b59bd3.js",
+      "static/chunks/250-733566aa91eefa75.js",
+      "static/chunks/703-3a8b376b99afd665.js",
+      "static/chunks/878-3b328a11959ed39b.js",
+      "static/css/b4846eed11c4725f.css",
+      "static/chunks/app/heros/[id]/page-204055cc73c6c5dc.js"
     ],
     "/heros/[id]/error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/heros/[id]/error.js"
+      "static/chunks/webpack-35ed3579428d600d.js",
+      "static/chunks/fd9d1056-a7a08e0407ba639d.js",
+      "static/chunks/69-7a2d266bde66b2c7.js",
+      "static/chunks/main-app-e1d3b0990d90df4e.js",
+      "static/chunks/app/heros/[id]/error-b2a8daafc23ef78b.js"
     ],
     "/heros/[id]/loading": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/heros/[id]/loading.js"
+      "static/chunks/webpack-35ed3579428d600d.js",
+      "static/chunks/fd9d1056-a7a08e0407ba639d.js",
+      "static/chunks/69-7a2d266bde66b2c7.js",
+      "static/chunks/main-app-e1d3b0990d90df4e.js",
+      "static/chunks/app/heros/[id]/loading-6b5b6430e70c9928.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-35ed3579428d600d.js",
+      "static/chunks/fd9d1056-a7a08e0407ba639d.js",
+      "static/chunks/69-7a2d266bde66b2c7.js",
+      "static/chunks/main-app-e1d3b0990d90df4e.js",
+      "static/chunks/250-733566aa91eefa75.js",
+      "static/css/6b1f1972bf53a640.css",
+      "static/chunks/app/page-ece2877582c50c56.js"
+    ],
+    "/heros/page": [
+      "static/chunks/webpack-35ed3579428d600d.js",
+      "static/chunks/fd9d1056-a7a08e0407ba639d.js",
+      "static/chunks/69-7a2d266bde66b2c7.js",
+      "static/chunks/main-app-e1d3b0990d90df4e.js",
+      "static/chunks/250-733566aa91eefa75.js",
+      "static/chunks/703-3a8b376b99afd665.js",
+      "static/chunks/app/heros/page-ef42bdd7e4035c93.js"
     ]
   }
 }

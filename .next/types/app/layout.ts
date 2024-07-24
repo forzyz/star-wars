@@ -1,4 +1,4 @@
-// File: /Users/admin/Documents/pet-projects/starnavi_test_task-main/app/layout.tsx
+// File: /Users/admin/Documents/pet-projects/star-wars/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

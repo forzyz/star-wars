@@ -1,4 +1,4 @@
-// File: /Users/admin/Documents/pet-projects/starnavi_test_task-main/app/heros/page.tsx
+// File: /Users/admin/Documents/pet-projects/star-wars/app/heros/page.tsx
 import * as entry from '../../../../app/heros/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

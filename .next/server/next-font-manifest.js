@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/admin/Documents/pet-projects/starnavi_test_task-main/app/layout\":[\"static/media/a76bf165be1c86df-s.p.ttf\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/admin/Documents/pet-projects/star-wars/app/layout":["static/media/a76bf165be1c86df-s.p.ttf"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
